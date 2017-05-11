@@ -135,7 +135,7 @@ def main(argv):
 	
     target = ''
     threads = 256
-    tor = False
+    tor = True
     port = 80
 
     for o, a in opts:
